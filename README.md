@@ -21,20 +21,27 @@ Before you can run the Image Metadata Editor, you need to ensure your system has
 - piexif
 
 You can install the necessary Python libraries using pip:
+
 pip install PyQt5 Pillow piexif
 
 ## Installation
 Clone this repository to your local machine using: 
+
 git clone https://github.com/yourusername/image-metadata-editor.git
 
 ## Usage
 To start the application, run the following command in your terminal:
+
 python app.py
 
 Once the application is running, you can:
 
-Click on "Open Image" to load an image into the application. 
+Click on "Open Image" to load an image into the application.
+
 View the metadata in the display area. 
+
 Select a metadata tag from the dropdown menu to edit. 
+
 Enter the new value for the selected tag in the text field. 
+
 Click "Save Changes" to apply the modifications and save them to a new image file.
