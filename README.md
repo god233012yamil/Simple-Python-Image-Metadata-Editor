@@ -8,6 +8,7 @@ Image Metadata Editor is a Python application designed to facilitate the viewing
 
 ![image](https://github.com/god233012yamil/Simple-Python-Image-Metadata-Editor/assets/5813359/96dcd072-8058-495f-a0fd-de530069ba68)
 
+![image](https://github.com/god233012yamil/Simple-Python-Image-Metadata-Editor/assets/5813359/880508b2-49a7-4a4b-885a-7cce1c968774)
 
 ## Features
 
