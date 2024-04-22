@@ -34,7 +34,7 @@ To start the application, run the following command in your terminal:
 
 python app.py
 
-Once the application is running, you can:
+## Once the application is running, you can:
 
 Click on "Open Image" to load an image into the application.
 
