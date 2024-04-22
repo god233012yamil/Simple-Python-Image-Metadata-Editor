@@ -4,6 +4,8 @@
 
 Image Metadata Editor is a Python application designed to facilitate the viewing and editing of metadata embedded in digital images. Utilizing PyQt5 for its graphical user interface and PIL (Pillow) alongside `piexif` for metadata handling, this tool provides a user-friendly environment for photographers, digital artists, and developers to manage image metadata.
 
+![image](https://github.com/god233012yamil/Simple-Python-Image-Metadata-Editor/assets/5813359/ed2859ab-4844-4c36-ac91-b78190e62f5c)
+
 ## Features
 
 - **Open and view images**: Load images directly through the interface.
