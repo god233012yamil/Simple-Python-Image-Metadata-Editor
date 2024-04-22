@@ -21,8 +21,6 @@ Before you can run the Image Metadata Editor, you need to ensure your system has
 - piexif
 
 You can install the necessary Python libraries using pip:
-
-```bash
 pip install PyQt5 Pillow piexif
 
 ## Installation
